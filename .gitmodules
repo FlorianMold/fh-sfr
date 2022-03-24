@@ -1,3 +1,6 @@
 [submodule "claudia-playground"]
 	path = claudia-playground
 	url = git@github.com:FlorianMold/claudia-playground.git
+[submodule "kafka-playground"]
+	path = kafka-playground
+	url = git@github.com:FlorianMold/kafka-playground.git
