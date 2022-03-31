@@ -4,3 +4,6 @@
 [submodule "kafka-playground"]
 	path = kafka-playground
 	url = git@github.com:FlorianMold/kafka-playground.git
+[submodule "fh-reactive-architecture"]
+	path = fh-reactive-architecture
+	url = git@github.com:FlorianMold/fh-reactive-architecture.git
