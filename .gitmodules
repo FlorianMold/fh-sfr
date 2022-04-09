@@ -7,3 +7,6 @@
 [submodule "fh-reactive-architecture"]
 	path = fh-reactive-architecture
 	url = git@github.com:FlorianMold/fh-reactive-architecture.git
+[submodule "fh-sfr-frontend"]
+	path = fh-sfr-frontend
+	url = git@github.com:FlorianMold/fh-sfr-frontend.git
